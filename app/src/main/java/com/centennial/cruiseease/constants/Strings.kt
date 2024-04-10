@@ -1,0 +1,67 @@
+package com.centennial.cruiseease.constants
+
+object Strings {
+    const val GET_STARTED: String = "Get Started"
+    const val NEXT: String = "Next"
+    const val DONT_HAVE_AN_ACCOUNT: String = "Don't have an account?"
+    const val WHITE_SPACE: String = " "
+    const val SIGN_UP: String = "Sign up"
+    const val OR_CONTINUE_WITH: String = "Or continue with"
+    const val GOOGLE: String = "Google"
+    const val APP_LOGO: String = "App Logo"
+    const val SLOGAN: String = "Your Smooth Sail"
+    const val APP_NAME: String = "CruiseEase"
+    const val LOGIN: String = "Login"
+    const val ALREADY_HAVE_AN_ACCOUNT: String = "Already have an account?"
+    const val INCORRECT_CREDENTIALS: String =
+        "Incorrect username or password. Please check your credentials and try again."
+    const val UNEXPECTED_ERROR: String =
+        "Login failed due to an unexpected error. Please try again later."
+    const val LOGIN_FAILED: String = "Login failed. Please try again."
+    const val REGISTRATION_FAILED: String = "Signup failed. Please try again."
+    const val CREDENTIAL_EXISTS: String = "The email address is already in use by another account."
+    const val SIGNUP_SUCCESS: String = "User signup successful. Please login to proceed."
+    const val FIND_DREAM_CRUISE: String = "Find your dream cruise"
+    const val POPULAR_CRUISE: String = "From popular cruise lines to luxury voyages"
+    const val BOOKING_HISTORY_TITLE: String = "Booking History"
+    const val BOOKING_HISTORY_DESCRIPTION: String = "Explore your past reservations"
+    const val ADD_TO_WISHLIST: String = "Add to Wishlist"
+    const val SUCCESS: String = "Success"
+    const val ADDED_TO_WISHLIST: String =
+        "You have successfully added this cruise to your wishlist. We look forward to welcoming you on board in the future."
+    const val OK: String = "Ok"
+    const val CANCEL: String = "Cancel"
+    const val DATE_FORMAT: String = "yyyy/MM/dd"
+    const val SUBMIT_RESERVATION: String = "Submit Reservation"
+    const val DATE_AFTER_TODAY: String = "Kindly choose a date that falls after today."
+    const val YOUR_SAVED_CRUISE: String = "Your Saved Cruises"
+    const val RESERVATION_SUCCESS: String =
+        "Your reservation has been successfully confirmed. We look forward to welcoming you on the reserved date. Thank you for choosing our services."
+    const val EXPLORE_YOUR_SAVED_CRUISES: String =
+        "Explore your saved cruises and plan your next voyage with ease."
+    const val CALENDAR_ICON: String = "Calendar Icon"
+    const val SELECT_DATE: String = "Select Date"
+    const val BILLING_AMOUNT: String = "Your billing amount is:"
+    const val ADDRESS: String = "Address"
+    const val PHONE: String = "Phone"
+    const val EMAIL: String = "Email"
+    const val FULL_NAME: String = "Full Name"
+    const val GUEST_DETAILS: String = "Guest Details"
+    const val LOGOUT: String = "Logout"
+}
+
+object Routes {
+    const val HOME = "Home"
+    const val DETAIL = "Detail"
+    const val LOGIN = "login"
+    const val SIGN_UP = "sign_up"
+    const val SAVED = "Saved"
+    const val PROFILE = "Profile"
+    const val PAYMENT = "Payment"
+    const val BOOKINGS = "Bookings"
+    const val ONBOARD = "onboard"
+    const val AUTH_NAVIGATOR = "auth_navigator"
+    const val UNAUTH_NAVIGATOR = "unauth_navigator"
+    const val ONBOARD_NAVIGATOR = "onboard_navigator"
+    const val TERMS_AND_CONDITIONS = "terms_and_conditions"
+}

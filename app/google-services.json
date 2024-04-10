@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "770081958911",
+    "firebase_url": "https://cruseease-default-rtdb.firebaseio.com",
+    "project_id": "cruseease",
+    "storage_bucket": "cruseease.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770081958911:android:e6327a69d0c9894c7155ca",
+        "android_client_info": {
+          "package_name": "com.centennial.cruiseease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770081958911-684sktqcupsde2vm30jnipeirpv1msnb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.centennial.cruiseease",
+            "certificate_hash": "acde4bd861fc58f59cb74f87b4449eb0379587b0"
+          }
+        },
+        {
+          "client_id": "770081958911-hsh06dov70gkatvavqner2f8chlekvqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd_0u5SNuJ1sOS1bf_BWmQx4L4thimpxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770081958911-hsh06dov70gkatvavqner2f8chlekvqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
